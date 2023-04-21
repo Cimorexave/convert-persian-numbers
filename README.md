@@ -1,11 +1,8 @@
-## Install
-npm package coming up soon...
-
 ## Usage
+It's very simple. Pass in your Persian numbers to the function as a string and it will return the converted value in English numbers as number.
+
 ```
-import ConvertNumbers from 'conver-persian-numbers'
-
-const englishConvertedNumber = ConvertNumbers(persianNumber: string)
-
+import ConvertNumbers from 'convert-persian-numbers'
+const englishConvertedNumber = ConvertNumbers(persianNumber)
 ```
 
