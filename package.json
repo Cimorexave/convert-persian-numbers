@@ -1,6 +1,6 @@
 {
   "name": "convert-persian-numbers",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "npm package coming up soon...",
   "main": "index.ts",
   "scripts": {
