@@ -1,6 +1,8 @@
-export default function ConvertNumbers(inputValue: string): number | undefined {
-  if (!inputValue) return undefined
-  return parseFloat(inputValue
+import { IConvertNumbers, IInputString } from "./types"
+
+export default function ConvertNumbers(input: IInputString): IConvertNumbers {
+  if (!input) return undefined
+  return parseFloat(input
     .replace(/[\u0660-\u0669]/g, function (subString) {
       const res = subString.charCodeAt(0) - 1632
       return res.toString()
