@@ -11,6 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/Cimorexave/convert-persian-numbers.git"
   },
+  "types": "./types.d.ts",
   "keywords": ["typescript", "convert-persian-numbers", "convert persian numbers", "persian-numbers", "farsi"],
   "author": "Sina Sadeqi",
   "license": "ISC",
