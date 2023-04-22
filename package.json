@@ -11,7 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/Cimorexave/convert-persian-numbers.git"
   },
-  "keywords": [],
+  "keywords": ["typescript", "convert-persian-numbers", "persian-numbers", "farsi"],
   "author": "",
   "license": "ISC",
   "bugs": {
