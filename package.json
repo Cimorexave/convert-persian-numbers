@@ -1,6 +1,6 @@
 {
   "name": "convert-persian-numbers",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "lightweight package to convert persian and arabic numbers into english.",
   "main": "index.ts",
   "scripts": {
@@ -11,7 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/Cimorexave/convert-persian-numbers.git"
   },
-  "keywords": ["typescript", "convert-persian-numbers", "persian-numbers", "farsi"],
+  "keywords": ["typescript", "convert-persian-numbers", "convert persian numbers", "persian-numbers", "farsi"],
   "author": "Sina Sadeqi",
   "license": "ISC",
   "bugs": {
